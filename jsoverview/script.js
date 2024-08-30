@@ -116,3 +116,25 @@ console.log(movie2)
 // template literals
 
 // tenary over if else 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

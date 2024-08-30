@@ -52,7 +52,7 @@ function FlashCards() {
     setSelectedId(id !== selectedId ? id : null)
   }
 
-
+  setSelectedId
 
   return (
     <div className="flashcards">
