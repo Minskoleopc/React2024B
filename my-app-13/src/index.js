@@ -10,6 +10,7 @@ import App8 from './App8';
 import App9 from './App9';
 import App11 from './App11';
 import App12 from './App12';
+import App13 from './App13';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -22,7 +23,8 @@ root.render(
     {/* <App8/> */}
     {/* <App9/> */}
     {/* <App11></App11> */}
-    <App12/>
+    {/* <App12/> */}
+    <App13/>
   </React.StrictMode>
 );
 
